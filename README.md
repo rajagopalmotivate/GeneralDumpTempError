@@ -1,0 +1,2 @@
+# GenerativeAIworkshop
+bootcamp
